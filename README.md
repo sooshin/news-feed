@@ -29,4 +29,4 @@ NewsFeed app fetches data from the Guardian API and the iTunes Search API.
 
 Please feel free to contact us if you have any issues. Your feedback is important to us.
 
-Contact us: pinkbee.dev@gmail.com
+### Contact us: pinkbee.dev@gmail.com
