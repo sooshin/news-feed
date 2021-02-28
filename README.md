@@ -1,4 +1,4 @@
- [![ic_launcher](https://user-images.githubusercontent.com/33213229/55873557-eda44d00-5bca-11e9-8272-50b56d971696.png)](https://play.google.com/store/apps/details?id=com.soojeongshin.newsfeed.free) 
+
  # Guardian News Feed
 
 [![google-play-badge](https://user-images.githubusercontent.com/33213229/55871467-a23b7000-5bc5-11e9-846e-93a2958f6253.png)](https://play.google.com/store/apps/details?id=com.soojeongshin.newsfeed.free)
@@ -12,7 +12,7 @@
 
 
 
-
+[![ic_launcher](https://user-images.githubusercontent.com/33213229/55873557-eda44d00-5bca-11e9-8272-50b56d971696.png)](https://play.google.com/store/apps/details?id=com.soojeongshin.newsfeed.free) 
 ### About Guardian News Feed 
 Guardian News Feed brings you news from the Guardian, and it also offers the latest Guardian podcasts. Our clean design and intuitive user interface allow you to navigate news sections easily and quickly. News sections include World, Science, Sport, Environment, Society, Fashion, Business, Culture, Podcasts, US News, UK News, Politics, Football, Lifestyle, Food, Travel, TV & radio, Books, Music, Media, Opinion, Technology, and Art & design. You can stream the guardian podcasts for free and download episodes for offline playback. Read trusted stories and find breaking news with NewsFeed app.
 
